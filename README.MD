@@ -7,14 +7,14 @@
  props: {
          //距离顶部多少距离，出现返回顶部的图标
          visibleOffset: {
-                type: [String, Number],
-                default: 600
-              },
-              //自定义，返回图标
-              className: {
-                type: String
-              }
-    },
+            type: [String, Number],
+            default: 600
+          },
+          //自定义，返回图标
+          className: {
+            type: String
+          }
+        },
 ```
 
 ## usage:
